@@ -6,6 +6,7 @@ sort($a);
 echo $a[0];
 echo  "<br>";
 echo end($a);
+echo end($a);
 ?>
 </body>
 </html>
